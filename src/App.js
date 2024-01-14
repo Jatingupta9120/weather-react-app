@@ -9,7 +9,7 @@ function App() {
         <CurrentLocation />
       </div>
       <div className="footer-info">
-        <a href="">
+        <a href="https://github.com/Jatingupta9120/weather-react-app.git">
           Download Source Code
         </a>{" "}
         | Developed by{" "}

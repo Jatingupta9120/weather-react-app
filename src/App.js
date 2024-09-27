@@ -24,5 +24,5 @@ function App() {
     </React.Fragment>
   );
 }
-<ERer00 id=""></ERer00>
+
 export default App;
